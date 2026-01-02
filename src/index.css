@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+  }
+  
+  html, body {
+    width: 100%;
+    background: green;
+  }
+  
